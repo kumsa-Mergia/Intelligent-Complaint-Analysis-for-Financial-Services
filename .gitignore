@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/*.ipynb
+
+# Environment
+.env
+.venv/
+venv/
+env/
+ENV/
+*.env
+
+# Data and Output
+data/interim/
+data/processed/
+vector_store/
+
+# Logs
+*.log
+logs/
+
+# VS Code
+.vscode/
