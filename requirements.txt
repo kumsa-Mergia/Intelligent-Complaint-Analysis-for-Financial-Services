@@ -1,0 +1,7 @@
+faiss-cpu
+numpy
+pandas
+sentence-transformers
+langchain
+ipywidgets
+notebook
