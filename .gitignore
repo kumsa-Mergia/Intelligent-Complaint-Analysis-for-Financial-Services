@@ -9,7 +9,6 @@ build/
 
 # Jupyter
 .ipynb_checkpoints/
-/*.ipynb
 
 # Environment
 .env
@@ -20,8 +19,7 @@ ENV/
 *.env
 
 # Data and Output
-data/interim/
-data/processed/
+/data
 vector_store/
 
 # Logs
